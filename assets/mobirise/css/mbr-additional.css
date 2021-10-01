@@ -455,7 +455,7 @@ body {
   border-color: #fafafa !important;
 }
 .text-primary {
-  color: #6592e6 !important;
+  color: #ffffff !important;
 }
 .text-secondary {
   color: #ff6666 !important;
@@ -3003,4 +3003,14 @@ a {
     left: 0;
     border-radius: 10px;
     overflow: hidden;
+  }
+
+  .box2 {
+    background-color: #32beed33;
+    border:inherit 4px #32BEED;
+    -moz-border-radius: 21px;
+    -webkit-border-radius: 21px;
+    border-radius: 21px;
+    padding-top: 24px;
+    padding-bottom: 24px;
   }
